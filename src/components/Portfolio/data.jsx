@@ -11,7 +11,7 @@ const data=[
       image:IMG1,
       title:'Weather Predicting App',
       github:'https://github.com/RameshNaik9/WeatherPredictingApp',
-      demo:'https://github.com/RameshNaik9/WeatherPredictingApp',
+      demo:'https://rameshnaik9.github.io/WeatherPredictingApp/',
     },
     {
       id:2,
