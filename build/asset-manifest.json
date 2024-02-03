@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rameshnaik/static/css/main.c30a023b.css",
+    "main.js": "/rameshnaik/static/js/main.16df6790.js",
+    "static/media/portfolio5.png": "/rameshnaik/static/media/portfolio5.8c4b4151c031b745a3db.png",
+    "static/media/portfolio2.png": "/rameshnaik/static/media/portfolio2.d36c682164ae83f4719c.png",
+    "static/media/portfolio6.png": "/rameshnaik/static/media/portfolio6.4d384b60242c7fff0437.png",
+    "static/media/portfolio4.png": "/rameshnaik/static/media/portfolio4.ce2fe6a34dbc73562168.png",
+    "static/media/portfolio1.png": "/rameshnaik/static/media/portfolio1.ea9f2f51561acd3271c6.png",
+    "static/media/portfolio3.png": "/rameshnaik/static/media/portfolio3.280c732979e0f31b384d.png",
+    "static/media/me.png": "/rameshnaik/static/media/me.0018b0e454433b733ada.png",
+    "static/media/cv.pdf": "/rameshnaik/static/media/cv.e6881e6ecb7114f10b3c.pdf",
+    "static/media/me-about.jpg": "/rameshnaik/static/media/me-about.1cdc9fc1452d20a1aab6.jpg",
+    "index.html": "/rameshnaik/index.html",
+    "main.c30a023b.css.map": "/rameshnaik/static/css/main.c30a023b.css.map",
+    "main.16df6790.js.map": "/rameshnaik/static/js/main.16df6790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30a023b.css",
+    "static/js/main.16df6790.js"
+  ]
+}
